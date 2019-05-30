@@ -1,0 +1,22 @@
+div.row {
+  border: 2px solid green;
+  padding: 4px;
+}
+
+div.col-md-2
+{
+  border: 2px solid green;
+  padding: 4px;
+}
+div.col-md-1
+{
+
+  border: 2px solid green;
+  padding: 4px;
+}
+div.col-md-5
+{
+
+  border: 2px solid green;
+  padding: 4px;
+}
